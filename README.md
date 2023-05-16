@@ -1,0 +1,2 @@
+# fileutskecerdasanbuatan
+Pengumpulan file UTS "MEMBUAT DETEKSI OBJEK MENGGUNAKAN BAHASA PEMROGRAMAN PYTHON DI NOTEPAD++"
